@@ -1,0 +1,35 @@
+body{
+	
+    background: url(background.jpg) no-repeat center fixed; 
+	
+    background-size: cover;
+
+	color:white;
+
+}
+.ibizalogo{
+
+	
+	position: fixed;
+	
+	top: 145px;
+	
+	overflow: hidden;
+	
+	left:50%;
+	
+	margin: -139px 0 0 -168px;
+}
+a{
+	
+	text-decoration:none;
+	
+	color:white;
+
+}
+
+
+
+
+
+

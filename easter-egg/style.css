@@ -1,0 +1,17 @@
+.emulator{
+	
+	position: absolute;
+	
+	top:5%; 
+	
+	left: 20%; 
+	
+}
+.text{
+	
+	position: absolute;
+	
+	top:5%; 
+	
+	border:2px double black;
+}

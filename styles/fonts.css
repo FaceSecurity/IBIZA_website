@@ -1,0 +1,19 @@
+@font-face {
+
+    font-family: 'faconbold_italic';
+
+    src: 
+
+         
+
+         url('fonts/facon-webfont.woff2') format('woff2'),
+
+         url('fonts/facon-webfont.woff') format('woff'),
+
+         url('fonts/facon-webfont.ttf') format('truetype'),
+
+         url('fonts/facon-webfont.svg#faconbold_italic') format('svg');
+
+
+
+}
